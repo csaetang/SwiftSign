@@ -1,0 +1,42 @@
+{
+  "HELLO": {
+    "display": "Hello",
+    "audio_track": 1,
+    "category": "Greeting"
+  },
+  "GOODBYE": {
+    "display": "Goodbye",
+    "audio_track": 2,
+    "category": "Greeting"
+  },
+  "YES": {
+    "display": "Yes",
+    "audio_track": 3,
+    "category": "Response"
+  },
+  "NO": {
+    "display": "No",
+    "audio_track": 4,
+    "category": "Response"
+  },
+  "QUESTION": {
+    "display": "I have a question",
+    "audio_track": 5,
+    "category": "Question"
+  },
+  "HELP": {
+    "display": "I need help",
+    "audio_track": 6,
+    "category": "Assistance"
+  },
+  "RESTROOM": {
+    "display": "May I go to the restroom?",
+    "audio_track": 7,
+    "category": "Permission"
+  },
+  "THANK_YOU": {
+    "display": "Thank you",
+    "audio_track": 8,
+    "category": "Social"
+  }
+}
